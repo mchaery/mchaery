@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Kristie Lee, and I'm a rising junior at New York University, majoring in Computer Science.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mchaery/mchaery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
