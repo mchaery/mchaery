@@ -1,8 +1,8 @@
 # Hi, I'm Kristie
 Computer Science major at NYU • Aspiring Software Engineer 👩‍💻  
 
+> Exploring various technologies through projects.             
 > Passionate about making things work — cleanly, and intuitively.  
-> Exploring various technologies through creative projects.
 
 ## Tech Stack
 ### Languages  
