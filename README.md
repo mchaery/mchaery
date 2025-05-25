@@ -32,8 +32,9 @@ Computer Science major at NYU • Aspiring Software Engineer 👩‍💻
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
 <!--
+![Kristie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchaery&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
